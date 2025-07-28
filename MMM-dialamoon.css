@@ -1,0 +1,55 @@
+/* Copy and paste any or all of these css entries into your custom.css file inside your
+ * css folder. The functions are annotated to make things as easy as possible for you.
+ * Use any colors you want! Go to - "http://htmlcolorcodes.com/color-picker/"
+ * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
+ */
+
+.MMM-dialamoon .header {
+/*  color: white;               /* Header color. Default is white. */
+}
+
+.MMM-dialamoon img.photo {
+/*  display: none;              uncomment if you don't want an image */
+  max-width: 100%;
+  margin-left: 0px;          /* Precisely align moon picture with these */
+  margin-right: 0px;
+  margin-top: 0px;         /* -41px for current. -21px for animation or static. */
+  /*  margin-top: -35px;         /* -41px for current. -21px for animation or static. */
+  margin-bottom: 0px;      /* -51px for current. -21px for animation or static. */
+  /* margin-bottom: -51px;      /* -51px for current. -21px for animation or static. */
+}
+
+.MMM-dialamoon .age {
+/*  color: white;               /* Age color. Default is white. */
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-dialamoon .illumination {
+ /* color: white;               /* illumination color. Default is white. */
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-dialamoon .stage {
+/*  color: white;               /* stage color. Default is white. */
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-dialamoon .distance {
+/*  color: white;               /* distance color. Default is white. */
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-dialamoon .DFS {
+/*  color: white;               /* DFS color. Default is white. */
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-dialamoon .nextFullMoon {
+/*  color: white;               /* nextFullMoon color. Default is white. */
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-dialamoon .nextNewMoon {
+/*  color: white;               /* nextNewMoon color. Default is white. */
+  /*  display: none; */       /* uncomment if you don't want this */
+}

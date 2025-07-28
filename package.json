@@ -1,0 +1,25 @@
+{
+  "name": "MMM-dialamoon",
+  "version": "0.0.1",
+  "description": "MagicMirror Module for Domoticz",
+  "main": "MMM-dialamoon.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knurlnheim/MMM-dialamoon.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "Module",
+    "Moon"
+  ],
+  "author": "Marc F.",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Knurlnheim/MMM-dialamoon/issues"
+  },
+  "homepage": "https://github.com/Knurlnheim/MMM-dialamoon#readme",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "suncalc3":"^2.0.5"
+  }
+}
